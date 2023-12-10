@@ -1,0 +1,28 @@
+sensors-connection:
+  connection:
+    brokerUri: #protocol://<host>:<port>
+#    URI example ssl://369f181cf0964ebeabdcc30a23aa2330.s1.eu.hivemq.cloud:8883
+    topicName: #/<topic-name>/
+    username: #<username>
+    password: #<password>
+  addresses:
+    - 76:a7:51:69:20:67
+    - 60:e2:77:ba:97:0e
+    - 0d:e6:c5:d6:ea:19
+    - 47:7a:b9:cf:ee:1f
+    - c6:d3:43:49:17:80
+    - 78:02:cd:3e:39:fe
+    - 59:18:6a:8c:6c:20
+    - 7d:15:bb:d5:42:f9
+    - 61:0d:49:1d:31:e7
+    - 3c:1e:72:bd:f8:1f
+    - 83:71:e7:13:df:e7
+    - a9:b3:28:c6:97:cf
+    - b5:4e:4b:38:30:5c
+    - a7:07:9f:25:42:50
+    - da:2a:7e:d9:f5:d3
+    - 30:4f:04:70:81:26
+    - 50:10:e5:c1:49:59
+    - 23:fb:b3:47:2d:72
+    - 0c:92:81:c5:53:79
+    - 2e:69:e5:16:47:f5
